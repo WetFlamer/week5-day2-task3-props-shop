@@ -1,0 +1,8 @@
+.main_cl {
+  display: flex;
+  height: 100%;
+}
+.main_shop {
+  display: flex;
+    flex-wrap: wrap;
+}
